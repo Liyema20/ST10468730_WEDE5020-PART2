@@ -1,195 +1,65 @@
-# Changelog
+ # 🧾 CHANGELOG
 
-All notable changes to this project will be documented here.  
-Following [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).  
+## [1.3.0] - 2025-10-23
+### 🚀 Added
+- Integrated **`script.js`** with full interactivity:
+  - Page fade-in animation
+  - Scroll reveal animation
+  - Contact form validation & success alert
+  - Scroll-to-top button
+  - Mobile navigation toggle
+- Updated **Products Page** to match the dark theme aesthetic used across all other pages.
+- Added responsive grid layout with hover animations for product cards.
+- Enhanced inter-page consistency and animation effects.
+
+### 🎨 Changed
+- Refined **`style.css`** to improve visibility and design balance.
+- Updated HTML files to include the new JavaScript features.
+- Unified all color schemes, ensuring a consistent dark-themed look throughout.
+
+### 🛠️ Fixed
+- Product images now visible and responsive on all screen sizes.
+- Resolved color inconsistencies between the Products page and other pages.
+- Minor layout and animation timing adjustments for smoother UI performance.
 
 ---
 
-## [0.0.1] - 2025-09-01
+## [1.2.0] - 2025-09
 ### Added
-- Initialized project folder structure.
-- Created `index.html` with placeholder text.
+- Implemented **Dark Mode** design for all pages.
+- Improved navigation bar and footer styling.
 
 ---
 
-## [0.0.2] - 2025-09-02
+## [1.1.0] - 2025-08
 ### Added
-- Created empty pages: `Home.html`, `About.html`, `Services.html`, `Enquiry.html`, `Contact.html`.
+- Added About, Products, Contact, and Enquiry pages for better site structure.
 
 ---
 
-## [0.0.3] - 2025-09-03
-### Added
-- Draft navigation menu on all pages.
-- Simple links added without styling.
+## [1.0.0] - 2025-07
+### Initial Release
+- Base project setup:
+  - `index.html`
+  - `style.css`
+  - Folder structure created for `/css`, `/js`, and `/images`
 
 ---
 
-## [0.0.4] - 2025-09-04
-### Added
-- Placeholder text content on **About** and **Services** pages.
+## 🧠 Technologies Used
+- **HTML5** – structure and content  
+- **CSS3** – responsive design, dark mode, animations  
+- **JavaScript (ES6)** – interactivity, validation, and animations  
 
 ---
 
-## [0.0.5] - 2025-09-05
-### Changed
-- Updated index page to redirect to `Home.html`.  
-- Navigation made consistent across all pages.
+## 📜 License
+This project is for **educational purposes only** under the **Rosebank College WEDE5020** module.
 
 ---
 
-## [0.0.6] - 2025-09-06
-### Added
-- Basic CSS file created: `style.css`.
-- Applied font-family and basic page layout.
-
----
-
-## [0.0.7] - 2025-09-07
-### Added
-- Header and footer section added to all pages.
-- Footer auto-updates year using JavaScript.
-
----
-
-## [0.0.8] - 2025-09-08
-### Added
-- Services page: pricing table with three service tiers.
-
----
-
-## [0.0.9] - 2025-09-09
-### Changed
-- Improved navigation bar spacing.
-- Fixed minor link path issues.
-
----
-
-## [0.1.0] - 2025-09-10
-### Added
-- Basic color scheme (black text, light background).
-- Section spacing for better readability.
-
----
-
-## [0.1.1] - 2025-09-11
-### Added
-- About page improved with more descriptive content.
-- Added image placeholders.
-
----
-
-## [0.1.2] - 2025-09-12
-### Added
-- Services page images included for each service.
-
----
-
-## [0.1.3] - 2025-09-13
-### Changed
-- Font color updated to solid black for readability.
-- Slightly larger text sizes.
-
----
-
-## [0.1.4] - 2025-09-14
-### Added
-- Contact page form with input fields: Name, Email, Message.
-
----
-
-## [0.1.5] - 2025-09-15
-### Changed
-- Enhanced footer styling with padding and spacing.
-- Global CSS cleanup.
-
----
-
-## [0.1.6] - 2025-09-16
-### Added
-- Background colors applied to sections for engagement.
-- Services page made more colorful.
-
----
-
-## [0.1.7] - 2025-09-17
-### Added
-- Enquiry page layout completed.
-- Basic form placeholder added.
-
----
-
-## [0.1.8] - 2025-09-18
-### Changed
-- Navigation links improved (hover effects added).
-- Header spacing adjusted.
-
----
-
-## [0.1.9] - 2025-09-19
-### Added
-- Futuristic, sleek theme applied across all pages.
-- CSS fully polished.
-
----
-
-## [1.0.0] - 2025-09-20
-### Added
-- Finalized 5 fully functional HTML pages:
-  - `Home.html`
-  - `About.html`
-  - `Services.html`
-  - `Enquiry.html`
-  - `Contact.html`
-- Complete CSS applied across all pages.
-- Fully working navigation bar linking all pages.
-- README.md and CHANGELOG.md added.
-
-### Fixed
-- Services page images not loading.
-- Font color inconsistencies.
-
----
-
-## [1.0.1] - 2025-09-21
-### Changed
-- Improved Services page with clearer layout.
-- Adjusted CSS spacing to reduce text clamping.
-
----
-
-## [1.0.2] - 2025-09-22
-### Added
-- Navigation interlinking between all pages completed.
-- Clean, futuristic styling adjustments.
-
----
-
-## [1.0.3] - 2025-09-23
-### Added
-- CSS polished with consistent padding and margin.
-- Video & slideshow support prepared (future feature).
-
----
-
-## [1.0.4] - 2025-09-24
-### Changed
-- Fixed alignment issues in Services and Enquiry pages.
-- Navigation bar hover effects improved.
-
----
-
-## [1.0.5] - 2025-09-25
-### Added
-- Services page updated with product/service images.
-- Particle animation effect tested for visual enhancement.
-
----
-
-## [1.0.6] - 2025-09-26
-### Added
-- Embedded Google Map on **Contact** page with address:  
-  **4309 Tubali Street, Kwazakhele 3, Gqeberha**.
-- README.md expanded with project details and structure.
-
-
+## 👨🏾‍💻 Author
+**Liyema Tebeka**  
+📧 [liyematebeka18@gmail.com](mailto:liyematebeka18@gmail.com)  
+📱 0789547730  
+📸 [Instagram: @liyem_tebeka](https://www.instagram.com/liyem_tebeka)
