@@ -1,92 +1,130 @@
-# TRADING TIME WITH MR LT 🌍📊
+ # 🌐 Liyema Tebeka — Web Development Project (WEDE5020)
 
-A simple, professional business website for **TRADING TIME WITH MR LT**.  
-Built with **HTML, CSS, and a bit of JavaScript** for navigation toggles and dynamic footer year.  
-
----
-
-## 📂 Project Structure
-
-```
-project-root/
-│
-├── index.html        # Homepage with brand intro and navigation
-├── about.html        # About page describing TRADING TIME WITH MR LT
-├── products.html     # Products/services page
-├── enquiry.html      # Enquiry form for clients
-├── contact.html      # Contact page (with map and email form)
-│
-├── css/
-│   └── style.css     # Main stylesheet (colors, layout, spacing, responsiveness)
-│
-├── img/              # (Optional) Folder for images and icons
-│
-├── README.md         # Project documentation
-```
+### 🎓 Rosebank College | Part 3 – Enhancing Functionality & SEO  
+Final phase of the website project — adding **JavaScript interactivity**, **SEO optimization**, and refining previous feedback.
 
 ---
 
-## 🔑 File Details
+## 🧩 Overview
 
-- **index.html** → Landing page with hero section and navigation links.  
-- **about.html** → Information about the business and brand identity.  
-- **products.html** → List of products or services with styled cards.  
-- **enquiry.html** → Client enquiry page with a form.  
-- **contact.html** → Contact form, email link, and embedded Google Map.  
-- **css/style.css** → Centralized styling: typography, colors, spacing, grids, responsive design.  
-- **README.md** → Documentation for project overview, setup, and usage.  
-- **img/** → Suggested folder to keep all images and logos organized.  
+In **Part 3**, the website was brought to life using **JavaScript**, allowing it to think and react to user actions.  
+SEO updates were also applied to make the site more discoverable to the world.
 
----
-
-## 🚀 How to Run
-
-1. **Clone or Download the Project**
-   - If using Git:  
-     ```bash
-     git clone https://github.com/yourusername/trading-time-mrlt.git
-     ```
-   - Or download as a ZIP and extract.
-
-2. **Open Locally**
-   - Navigate into the project folder.  
-   - Double-click `index.html` to open it in your web browser.  
-   - Use the navbar to access **About, Products, Enquiry, Contact** pages.
-
-3. **Optional: Serve with Live Server**
-   - If using VS Code, install the **Live Server** extension.  
-   - Right-click `index.html` → **Open with Live Server** for hot reloads.
-
-4. **Deploy Online (Free Hosting Options)**
-   - **GitHub Pages**: Push this repo to GitHub → enable GitHub Pages in repo settings.  
-   - **Netlify / Vercel**: Drag-and-drop the folder or connect your GitHub repo.  
-   - **Any Hosting**: Upload the `.html`, `css/`, and `img/` files to your hosting server.
+This version combines:
+- 🧠 **Dynamic Interactivity**
+- 🧱 **Improved Structure & Responsiveness**
+- ⚙️ **Optimized SEO for Visibility**
+- 💬 **Contact Form Validation & Scroll Animations**
 
 ---
 
-## ✨ Features
+## 🧠 JavaScript Features Implemented
 
-- Responsive navigation with **mobile hamburger menu**.  
-- Clean typography and spacing with a **modern color palette** (black + gold + red).  
-- Contact form with email link.  
-- Embedded **Google Map** for physical location.  
-- Dynamic **year** in the footer auto-updates via JavaScript.  
+✅ **Page Fade-in Animation**  
+Website content now appears smoothly when the page loads.
+
+✅ **Scroll Reveal Animations**  
+Sections, cards, and images fade into view as the user scrolls down.
+
+✅ **Navigation Toggle**  
+Header title acts as a toggle to open or close navigation on smaller screens.
+
+✅ **Scroll-to-Top Button**  
+A floating button allows users to smoothly scroll back to the top of any page.
+
+✅ **Form Validation**  
+All fields are validated before the contact form can be submitted.
+
+✅ **Responsive Product Cards**  
+Hover animations and dynamic visibility on scroll make the layout more engaging.
 
 ---
 
-## 🛠️ Technologies Used
+## 🌐 SEO Enhancements
 
-- **HTML5** → Structure and semantic markup  
-- **CSS3** → Styling, layout, responsive design  
-- **JavaScript** → Navigation toggle & footer year  
-- **Google Maps Embed** → Location display  
+- Added **meta tags** (description, keywords, author).  
+- Included **sitemap.xml** and **robots.txt** for search engine indexing.  
+- Enhanced **alt attributes** on all images.  
+- Maintained **consistent responsive design** across devices.  
+- Optimized **page titles and headings** for better search relevance.
 
 ---
 
-## 📌 Author
+## 🧾 CHANGELOG
 
-👤 **Liyema Tebeka**  
-📧 liyematebeka@gmail.com  
+### [1.3.0] - 2025-10-23
+#### 🆕 Added
+- Full `script.js` interactivity (fade-in, scroll animations, contact form validation, scroll-to-top, nav toggle)
+- Product page updated to match dark theme aesthetic
+- Responsive grid layout with hover animations
+- Improved consistency across all pages
+
+#### ♻️ Changed
+- Updated `style.css` for color and layout consistency
+- Linked all pages to include the new JavaScript file
+
+#### 🐞 Fixed
+- Image visibility and responsiveness on the product page
+- Minor color inconsistencies between pages
+
+---
+
+### [1.2.0] - 2025-09-XX
+- Added dark mode design  
+- Refined navigation bar and footer styling  
+
+### [1.1.0] - 2025-08-XX
+- Added About, Products, Contact, and Enquiry pages  
+
+### [1.0.0] - 2025-07-XX
+- Initial setup: index.html, CSS folder, and base structure  
+
+---
+
+## 🧩 Files Modified in Part 3
+- `/js/script.js`  
+- `/css/style.css`  
+- `/index.html`  
+- `/about.html`  
+- `/products.html`  
+- `/contact.html`  
+- `/enquiry.html`
+
+---
+
+## 🧾 Technologies Used
+- **HTML5** — Structure  
+- **CSS3** — Styling, Animations, Responsive Layout  
+- **JavaScript (ES6)** — Interactivity, Validation, DOM Manipulation  
+
+---
+
+## 📚 References
+- [Formspree](https://formspree.io) — contact form handling  
+- [Google Maps Embed API](https://developers.google.com/maps/documentation/embed) — for map integration  
+- [W3Schools](https://www.w3schools.com) — JavaScript animations and tutorials  
+- [MDN Web Docs](https://developer.mozilla.org/) — for best practices  
+- [Stack Overflow](https://stackoverflow.com) — for problem-solving & debugging  
+
+---
+
+## 🧑🏾‍💻 Author
+**Liyema Tebeka**  
+📧 [liyematebeka18@gmail.com](mailto:liyematebeka18@gmail.com)  
 📱 0789547730  
-📸 Instagram: [@liyem_tebeka](https://instagram.com/liyem_tebeka)  
+📸 [Instagram: @liyem_tebeka](https://www.instagram.com/liyem_tebeka)
 
+---
+
+## 🧠 Educational Context
+This project was completed for **Rosebank College – WEDE5020 (Web Development)**.  
+It demonstrates skills in HTML, CSS, JavaScript, and SEO.
+
+---
+
+## 💾 Git Commands for Final Submission
+
+```bash
+git add .
+git commit -m "Part 3: Implemented JS interactivity, SEO updates, and final improvements"
+git push origin main
